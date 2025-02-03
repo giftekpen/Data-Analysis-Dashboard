@@ -10,3 +10,8 @@ The North Traders want to Analyze sales trends, product performance, key custome
 - Can you identify any key customers?
 
 ## Process
+- verify data for any missing values and anomalies, and sort out the same.
+- made sure data is consistent and clean with respect to data types, data format and values used.
+- create pivot tables according to the questions asked.
+- merge all pivot tables into dashboard and apply slicer to make dynamic.
+## Dashboard
