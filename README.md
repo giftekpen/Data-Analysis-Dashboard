@@ -15,4 +15,4 @@ The North Traders want to Analyze sales trends, product performance, key custome
 - Create pivot tables based on the specific questions or requirements.
 - Combine all pivot tables into a comprehensive dashboard, incorporating slicers for dynamic interaction.
 ## Dashboard
-!(https://github.com/giftekpen/Data-Analysis-Dashboard/blob/main/project%20photo.png).
+![project photo](https://github.com/giftekpen/Data-Analysis-Dashboard/blob/main/project%20photo.png).
